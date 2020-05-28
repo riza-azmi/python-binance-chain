@@ -70,6 +70,10 @@ Quick Start
 
 .. code:: bash
 
+    sudo apt-get install build-essential automake pkg-config libtool libffi-dev libgmp-dev libsecp256k1-dev
+    
+.. code:: bash
+
     pip install python-binance-chain
 
 If having issues with secp256k1 check the `Installation instructions for the sec256k1-py library <https://github.com/ludbb/secp256k1-py#installation>`_
